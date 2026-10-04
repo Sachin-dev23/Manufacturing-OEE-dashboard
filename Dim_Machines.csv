@@ -1,0 +1,6 @@
+Machine_ID,Machine_Name,Line_Number,Factory_Section,Installation_Date
+MCH-001,Assembly Line Alpha,Line 1,Assembly,2018-03-15
+MCH-002,CNC Milling Center,Line 2,Machining,2020-06-22
+MCH-003,Injection Molder X,Line 1,Molding,2015-11-10
+MCH-004,Robotic Welder Prime,Line 3,Welding,2022-01-18
+MCH-005,Packaging Unit Beta,Line 4,Packaging,2021-09-05
